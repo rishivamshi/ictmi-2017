@@ -222,7 +222,7 @@
 </ul>
                             	
                           <h3 class="payment1">  Registration & Online Payment</h3> <br/>
-							<h3 class="payment">Online Payment for Indian Delegates</h3>
+							<h3 class="payment">Online Registration for Indian Delegates</h3>
                             <p style="text-align:justify;"> Registration opens only for Participants</p>
 								
                                 			<br/>

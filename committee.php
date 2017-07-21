@@ -569,7 +569,7 @@ include 'top.php';
                 	<div class="post-inner">
 
 <figure class="image">
-                           <img class="img-responsive" src="images/speakers/mahalakshmi1.jpg" alt="" />
+                           <img class="img-responsive" src="images/speakers/mahalakshmi1.JPG" alt="" />
                             <span class="curve"></span>
                         </figure>
                         <div class="content">

@@ -152,14 +152,14 @@ include 'top.php';
                 	<div class="post-inner">
                     
                         <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/hiroshi.jpg" alt="" />
+                            <img class="img-responsive" src="images/speakers/Members/takeio" alt="" />
                             <span class="curve"></span>
                         </figure>
                         <div class="content">
                             <div class="inner-box">
-                                <h3>Prof. Hiroshi UEDA</h3>
-                                <div class="text" style="padding-bottom:10px;">Laboratory for Chemistry and Life Science<br/>Institute of Innovative Research, Tokyo Institute of Technology, Japan.
-                                <a href="https://www.omicsonline.org/editor-profile/Hiroshi_Ueda_Biotechnology_Biomaterials/" target="_blank" class="read_more">READ MORE</a></div>
+                                <h3>Prof. Takeaki OZAWA</h3>
+                                <div class="text" style="padding-bottom:10px;">Professor, Department of Biological Sciences,Graduate School of Science <br/>The University of Tokyo, Japan 
+                                <a href="http://link" target="_blank" class="read_more">READ MORE</a></div>
                             </div>
                         </div>
                         
@@ -255,7 +255,7 @@ Department of Neuroscience and Biomedical Engineering,
                                 <h3>Prof. Frank Berger</h3>
                                 <div class="text" style="padding-bottom:10px;">Professor, Department for Clinical Radiology
 Ludwig-Maximilians-University, <br/>	
-Campus Innenstadt, </br>Munich, Germany <br/> 
+Campus Innenstadt, Nussbaumstrasse 20, 80336 Munich, Germany <br/> 
                                 <a href="http://" target="_blank" class="read_more">READ MORE</a></div>
                             </div>
                         </div>
@@ -273,7 +273,7 @@ Campus Innenstadt, </br>Munich, Germany <br/>
                 	<div class="post-inner">
                     
                         <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/Linda.jpg" alt="" />
+                            <img class="img-responsive" src="images/speakers/Members/Linda.png" alt="" />
                             <span class="curve"></span>
                         </figure>
                         <div class="content">
@@ -294,78 +294,22 @@ Department of Anesthesiology and Intensive Care <br/>Solna, Stockholm, Sweden </
                 	<div class="post-inner">
                     
                         <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/xing.jpg" alt="" />
+                            <img class="img-responsive" src="images/speakers/Members/fried.jpg" alt="" />
                             <span class="curve"></span>
                         </figure>
                         <div class="content">
                             <div class="inner-box">
-                                <h3>Prof. Xing Bengang</h3>
-                                <div class="text" style="padding-bottom:10px;">Associate Professor <br/>
-                                </br>Division of Chemistry and Biological Chemistry</br>Nanyang Technological University, Singapore
-                                <a href="http://www.ntu.edu.sg/home/bengang/" target="" class="read_more">READ MORE</a>
+                                <h3>Prof Siegfried Trattnig</h3>
+                                <div class="text" style="padding-bottom:10px;">Professor <br/>
+                                **INFO NOT CLEAR**</br>E-Mail: siegfried.trattnig@meduniwien.ac.at
+                                <a href="http://" target="_blank" class="read_more">READ MORE</a>
                             </div>
                             </div>
                         </div>
                     </div>
                 </article>
                 
-                
-                <article class="col-md-4 col-sm-6 col-xs-12 post wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                	<div class="post-inner">
-                    
-                        <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/archunan2.jpg" alt="" />
-                            <span class="curve"></span>
-                        </figure>
-                        <div class="content">
-                            <div class="inner-box">
-                                <h3>Prof. Archunan</h3>
-                                <div class="text" style="padding-bottom:10px;">Professor & Head, Dept. of Animal Science <br/>
-                                </br>Bharathidasan University</br>Tiruchirapalli, India
-                                <a href="http://www.bdu.ac.in/schools/life_sciences/animal_science/dr_g_archunan.php">READ MORE</a>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-                
-                <article class="col-md-4 col-sm-6 col-xs-12 post wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                	<div class="post-inner">
-                    
-                        <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/santhosh.jpg" alt="" />
-                            <span class="curve"></span>
-                        </figure>
-                        <div class="content">
-                            <div class="inner-box">
-                                <h3>Dr. T. R. Santhosh Kumar</h3>
-                                <div class="text" style="padding-bottom:10px;">Scientist E-II <br/>
-                                </br>Rajiv Gandhi Centre for Biotechnology</br>Trivandrum, India
-                                <a href="http://rgcb.res.in/t-r-santhosh-kumar.php">READ MORE</a>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-                
-			    <article class="col-md-4 col-sm-6 col-xs-12 post wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                	<div class="post-inner">
-                    
-                        <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/lenin.jpg" alt="" />
-                            <span class="curve"></span>
-                        </figure>
-                        <div class="content">
-                            <div class="inner-box">
-                                <h3>Prof. A. Lenin Fred</h3>
-                                <div class="text" style="padding-bottom:10px;">Principal <br/>
-                                </br>Mar Ephraem College of Engineering and Technology</br>Marthandam
-                                <a href="http://marephraem.edu.in/messages.php" target="" class="read_more">READ MORE</a>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
+			 
              
         </div>
             

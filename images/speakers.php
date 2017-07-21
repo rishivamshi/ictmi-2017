@@ -294,15 +294,15 @@ Department of Anesthesiology and Intensive Care <br/>Solna, Stockholm, Sweden </
                 	<div class="post-inner">
                     
                         <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/xing.jpg" alt="" />
+                            <img class="img-responsive" src="images/speakers/Members/fried2.jpg" alt="" />
                             <span class="curve"></span>
                         </figure>
                         <div class="content">
                             <div class="inner-box">
-                                <h3>Prof. Xing Bengang</h3>
-                                <div class="text" style="padding-bottom:10px;">Associate Professor <br/>
-                                </br>Division of Chemistry and Biological Chemistry</br>Nanyang Technological University, Singapore
-                                <a href="http://www.ntu.edu.sg/home/bengang/" target="" class="read_more">READ MORE</a>
+                                <h3>Prof. Siegfried Trattnig</h3>
+                                <div class="text" style="padding-bottom:10px;">Professor <br/>
+                                </br>Director, Centre of Excellence (High-Field MRI)</br>Medical University of Vienna
+                                <a href="https://hfmr.meduniwien.ac.at/allgemeine-informationen/mitarbeiterinnen/trattnig/" target="" class="read_more">READ MORE</a>
                             </div>
                             </div>
                         </div>
