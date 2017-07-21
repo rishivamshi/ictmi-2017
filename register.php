@@ -161,7 +161,7 @@
                      <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Industry delegates</strong>
-                        <span class="skill">7000 INR / 350 USD
+                         <span class="skill">7000 INR / 350 USD</span>
                     </li>
                     
                     <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
@@ -186,7 +186,7 @@
                      <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Co-Author / Participant / Accompanying Person</strong>
-                        <span class="skill">3000 INR / 100 USD
+                         <span class="skill">3000 INR / 100 USD</span>
                     </li>
                     
                    
@@ -244,7 +244,7 @@
 						
 	
 	<h3>
-	LAST DATE OF REGISTRATION : 17 <sup>TH</sup> AUGUST 2017
+	LAST DATE OF REGISTRATION :<a> 17 <sup>TH</sup> AUGUST 2017 </a>
 	</h3>				
 						<!--		
                             </div>
@@ -273,7 +273,7 @@
                 
                 
             </div>
-                    </div>
+                        </div></div></div></div></div>
     </section>
 <?php 
 include 'bottom.php';
