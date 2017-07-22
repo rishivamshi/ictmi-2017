@@ -302,7 +302,7 @@ include 'top.php';
             
             
             
-            
+ <!--            
  <div class="tab-text">
       <p style="text-align:justify;font-size:15px;">The organizing committee of ICTMI 2017 is offering companies the opportunity to sponsor our conference at various levels by which you will be helping the association and RGCB in successful organization of the conference.</p>
        <h3 class="payment1">  Exhibitions</h3>
@@ -315,8 +315,8 @@ include 'top.php';
              <li><i class="fa-li fa fa-check-square"></i>Two complimentary registration for the conference which includes access to the scientific sessions and exhibitions, Lunches during meetings & Conference Dinner, Tea/Coffee breaks and Conference kit</li>
              </ul>
           
-       </div>
-       <br/>
+       </div>-->
+       <br>
        
        <!--<div class="link-btn">
                             <a class="primary-btn hvr-bounce-to-left" href="sponsorregister.php">
@@ -327,7 +327,7 @@ include 'top.php';
                            
                             
         </div>-->
-      
+     </div>
 	</section>
     
 <?php 

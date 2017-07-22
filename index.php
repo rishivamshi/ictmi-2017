@@ -638,7 +638,7 @@ Scheduled dates are 28<sup>th</sup> - 30<sup>th</sup> of August 2017. <br/>
         
     </section>
     
-    
+    <!-- 
       <section class="top-services">
         <div class="auto-container">
             
@@ -714,9 +714,39 @@ Scheduled dates are 28<sup>th</sup> - 30<sup>th</sup> of August 2017. <br/>
  
         </div>
 	</section>
+    -->
+    <br>
+    <br>
+    <section class="we-are-best">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	
+                <div class="col-md-6 col-sm-6 col-xs-12 image-side">
+                	<figure class="image"><img class="img-responsive" src="images/sponsorship.jpg" alt="" title=""></figure>
+                </div>
+                
+                <div class="col-md-6 col-sm-6 col-xs-12 text-side">
+                	<h2 class="wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">Industry <span>Sponsorship</span> </h2>
+                    <div class="text wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
+                    	<p>
+                    
+This will be an excellent opportunity to showcase your wide array of products to delegates.<br>
+
+                    	
+                    	</p>
+                    </div>
+                    <div class="link-btn wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1000ms">
+                    <a class="primary-btn light hvr-bounce-to-left" href="sponsorship.php">
+                    <span class="btn-text">Sponsorship Details</span> 
+                    <strong class="icon"><span class="f-icon flaticon-right11"></span></strong></a></div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
     
-    
-    
+    <br>
+    <br>
     <!--News Area-->
     <section class="">
     	<div class="auto-container">
