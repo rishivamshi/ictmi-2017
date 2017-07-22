@@ -3,7 +3,7 @@
 include 'top.php';
 ?>
         
-        
+        <header>
 <!-- Header Lower -->
         <div class="header-lower">
         	<div class="auto-container clearfix">
@@ -86,7 +86,7 @@ include 'top.php';
 <figure class="image">
                             
                             <span class="curve"></span>
-                        </figure>
+                        </figure></div>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
                                 <h3><span></span></h3>
@@ -94,7 +94,7 @@ include 'top.php';
                                 
                             </div>
                         </div>
-          
+                        </div>
                 </article>
                 
 
@@ -716,7 +716,7 @@ include 'top.php';
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
                                 <h3>Technical Chair</h3>
-                                <div class="text1"><b>Dr. P. Ravanan</b><br/>Associate Professor<br/>SBST, VIT University</br>.
+                                <div class="text1"><b>Dr. P. Ravanan</b><br/>Associate Professor & Head (Department of Bio-Sciences)<br/>SBST, VIT University.
                               </div>
                                   </div>
                         </div>

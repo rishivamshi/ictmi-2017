@@ -352,7 +352,7 @@ Department of Anesthesiology and Intensive Care <br>Solna, Stockholm, Sweden <br
                 	<div class="post-inner">
                     
                         <figure class="image">
-                            <img class="img-responsive" src="images/speakers/Members/lenin.jpg" alt="" />
+                            <img class="img-responsive" src="images/speakers/Members/13.lenin.jpg" alt="" />
                             <span class="curve"></span>
                         </figure>
                         <div class="content">
