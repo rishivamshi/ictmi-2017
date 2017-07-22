@@ -356,7 +356,7 @@
                         <div class="content">
                             <div class="inner-box">
                                 <h3>Full Paper Submission</h3>
-                                <div class="text">Last Date 31<sup>st</sup> July 2017</div>
+                                <div class="text">Last Date 18<sup>th</sup> August 2017</div>
                                 <a href="guidelines.php" class="read_more">Guidelines <strong class="icon"><span class="f-icon flaticon-right11"></span></strong> </a>
                             </div>
                         </div>
@@ -435,7 +435,7 @@
                     <div class="tab active-tab clearfix" id="architecture-tab">
                     	<!--Content Box-->
                         <div class="content-box">
-                         <h4>Last date of Full Paper Submission : <a>31<sup>st</sup> July 2017</a></h4>
+                         <h4>Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4>
                             <h4>Notification of Acceptance :  <a>10 <sup>th</sup> August 2017 </a></h4>
                          <h4>Last date of Registration : <a>17 <sup>th</sup> August 2017</a> </h4>
                         	<br>

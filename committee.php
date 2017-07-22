@@ -340,7 +340,7 @@ include 'top.php';
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
                                 <h3>Associate Chair</h3>
-                                <div class="text1"><b>Rev. Fr. Prem Kumar</b><br/>Correspondent and Secretary, <br/> Mar Ephraem College of Engineering and Technology 
+                                <div class="text1"><b>Rev. Fr. Prem Kumar</b><br/>Ex-Correspondent and Secretary, <br/> Mar Ephraem College of Engineering and Technology 
                               </div>
                                
                             </div>
@@ -360,7 +360,7 @@ include 'top.php';
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
                                 <h3>Associate Chair</h3>
-                                <div class="text"><b>Rev. Fr. Josephine Raj</b><br/>Procurator,<br/>Mar Ephraem College of Engineering and Technology</br>Marthandam</div>
+                                <div class="text"><b>Very Rev. Fr. Josephine Raj</b><br/>Correspondent & Secretary<br/>Mar Ephraem College of Engineering and Technology</br>Marthandam</div>
                             </div>
                         </div>
           
