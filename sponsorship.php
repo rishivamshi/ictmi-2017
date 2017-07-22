@@ -3,6 +3,7 @@
 include 'top.php';
 ?>
 <!-- Header Lower -->
+<header>
         <div class="header-lower">
         	<div class="auto-container clearfix">
                 <!--Logo-->
@@ -81,6 +82,61 @@ include 'top.php';
  
             <div class="row clearfix">
                  
+                <article class="col-md-6 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Title Sponsor - 4 Lakhs</h3>
+                               <div class="read_more">
+                               Logo Display on all appearances<br>
+                                   Promo video before all sessions<br> 
+                                   Travel and stay for two representatives<br>
+                                   Reserved and Privileged seating<br>
+                                   Special invitation for gala dinner<br>
+                                   Nominate a speaker<br>
+                                   5 standees in the summit<br>
+                                   2 free exhibition stalls<br>
+                               
+                              </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article>
+                <article class="col-md-6 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Platinum Sponsor - 3 Lakhs</h3>
+                               <div class="read_more">
+                               Logo Display on all appearances<br>
+                                   Promo video before all sessions<br> 
+                                   Travel and stay for two representatives<br>
+                                   Reserved and Privileged seating<br>
+                                   Special invitation for gala dinner<br>
+                                   Nominate a speaker<br>
+                                   3 standees in the summit<br>
+                                   1 free exhibition stalls<br>
+                               
+                              </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article></div>
+            <div class="row clearfix">
                 <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
                 	<div class="post-inner">
                     
@@ -90,10 +146,66 @@ include 'top.php';
                         </figure>
                         <div class="content">
                             <div class="inner-box">
-                                <h3>Category I</h3>
+                                <h3>Diamond Sponsor - 2 Lakhs</h3>
                                <div class="read_more">
-                               National: Rs. 1 Lakh<br/>
-                               International: 4000 USD
+                               Logo Display on all appearances<br>
+                                   Promo video before two sessions<br> 
+                                   Reserved Seating<br>
+                                   Travel and Stay for 1 representative<br>
+                                   Special invitation for gala dinner<br>
+                                   3 standees in the summit<br>
+                                   75% discount on exhibition stalls<br>
+                               
+                              </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article>
+                <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Gold Sponsor - 1 Lakh</h3>
+                               <div class="read_more">
+                               Logo Display on all appearances<br>
+                                   Promo video twice on each day sessions<br> 
+                                   Reserved Seating<br>
+                                   Travel and Stay for 1 representative<br>
+                                   Special invitation for gala dinner<br>
+                                   2 standees in the summit<br>
+                                   50% discount on exhibition stalls<br>
+                              </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article>
+                <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Silver Sponsor - Rs 75000</h3>
+                               <div class="read_more">
+                               Logo Display on all appearances<br>
+                                   One Promo video each day<br> 
+                                   Reserved Seating<br>
+                                   Travel and Stay for 1 representative<br>
+                                   Special invitation for gala dinner<br>
+                                   2 standees in the summit<br>
+                                   50% discount on exhibition stalls<br>
                               </div>
                                
                             </div>
@@ -102,47 +214,95 @@ include 'top.php';
                     </div>
                 </article>
                 
-                
-                <article class="col-md-4 col-sm-6 col-xs-12 post wow fadeInUp animated" data-wow-delay="500ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInUp;">
+     
+             
+            </div>
+            
+            
+            
+            
+            <div class="row clearfix">
+                <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
                 	<div class="post-inner">
                     
                         <figure class="image">
-                            <img class="img-responsive" src="images/resource/sponser1.jpg" alt="">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
                             <span class="curve"></span>
                         </figure>
                         <div class="content">
                             <div class="inner-box">
-                                <h3>Category II</h3>
-                                <div class="read_more"> National: Rs. 60,000<br/>
-                               International: 2000 USD</div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-                
-                
-                <article class="col-md-4 col-sm-6 col-xs-12 post wow fadeInUp animated" data-wow-delay="1000ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInUp;">
-                	<div class="post-inner">
-                    
-                        <figure class="image">
-                            <img class="img-responsive" src="images/poster.jpg" alt="">
-                            <span class="curve"></span>
-                        </figure>
-                        <div class="content">
-                            <div class="inner-box">
-                                <h3>Category III</h3>
-                                <div class="read_more"> National: Rs. 30,000<br/>
-                               International: 1000 USD</div>
+                                <h3>Bronze Sponsor - Rs 50000</h3>
+                               <div class="read_more">
+                                Logo on banners <br>
+                                   One Promo video<br> 
+                                   Reserved Seating<br>
+                                   Special Invitation for gala dinner<br>
+                                   
+                                   1 standee in the summit<br>
+                                   20% discount on exhibition stalls<br>
+                               
+                              </div>
                                
                             </div>
                         </div>
                         
                     </div>
                 </article>
-              
-            
+                <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Stationary Sponsor - Rs 40000</h3>
+                               <div class="read_more">
+                               Logo on Stationary<br>
+                                   One Promo video on each day<br> 
+                                   Special Invitation on gala dinner<br>        
+                                   1 standee in the summit<br>        
+                              </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article>
+                <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp animated" data-wow-delay="0ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/resource/sponser.jpg" alt="">
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Apparel Sponsor - 1.5 Lakhs</h3>
+                               <div class="read_more">
+                               Logo on apparel<br>
+                                   One Promo video on each day<br> 
+                                   Reserved Seating<br>
+                                   Special invitation for gala dinner<br>
+                                   1 standee in the summit<br>
+                                   
+                              </div>
+                               
+                            </div>
+                        </div>
+                        
+                    </div>
+                </article>
+                
+     
              
             </div>
+            
+            
+            
+            
+            
  <div class="tab-text">
       <p style="text-align:justify;font-size:15px;">The organizing committee of ICTMI 2017 is offering companies the opportunity to sponsor our conference at various levels by which you will be helping the association and RGCB in successful organization of the conference.</p>
        <h3 class="payment1">  Exhibitions</h3>
