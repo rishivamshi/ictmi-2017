@@ -436,10 +436,10 @@
                     	<!--Content Box-->
                         <div class="content-box">
                          <h4>Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4>
-                            <h4>Notification of Acceptance :  <a>10 <sup>th</sup> August 2017 </a></h4>
-                         <h4>Last date of Registration : <a>17 <sup>th</sup> August 2017</a> </h4>
+                            <h4>Notification of Acceptance :  <a>21 <sup>th</sup> August 2017 </a></h4>
+                         <h4>Last date of Registration : <a>21 <sup>th</sup> August 2017</a> </h4>
                         	<br>
-                            <h3><a>Spot registration not entertained</a></h3>
+
                             
                             <!--Tab Text-->
                                                                                                            
