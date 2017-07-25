@@ -56,10 +56,9 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/GV.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Chief <span>Patron</span></h3>
-                                <div class="text"><b>Dr. G. Viswanathan</b>
-                                    <br/>Chancellor
-                                    <br/>VIT University</div>
+                                <h3>Dr. G. Viswanathan</h3>
+                                <div class="text"><b>Chancellor</b>
+                                    <br>VIT University</div>
                             </div>
                         </div>
                     </div>
@@ -117,9 +116,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/selvam.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3><span>Patron</span></h3>
-                                <div class="text"><b>Shri. G. V. Selvam</b>
-                                    <br/>Vice President
+                                <h3><span>Shri. G. V. Selvam</span></h3>
+                                <div class="text"><b>Vice President</b>
                                     <br/>VIT University</div>
                             </div>
                         </div>
@@ -130,9 +128,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/vc.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3> <span>Patron</span></h3>
-                                <div class="text"><b>Dr. Anand A. Samuel</b>
-                                    <br/>Vice Chancellor
+                                <h3> <span>Dr. Anand A. Samuel</span></h3>
+                                <div class="text"><b>Vice Chancellor</b>
                                     <br/>VIT University</div>
                             </div>
                         </div>
@@ -143,9 +140,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/provc.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Patron</h3>
-                                <div class="text1"><b>Dr. S. Narayanan</b>
-                                    <br/>Pro-Vice Chancellor
+                                <h3>Dr. S. Narayanan</h3>
+                                <div class="text1"><b>Pro-Vice Chancellor</b>
                                     <br/> VIT University </div>
                             </div>
                         </div>
@@ -178,9 +174,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/Parasuraman.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>General Chair</h3>
-                                <div class="text1"><b>Dr. Parasuraman Padmanabhan</b>
-                                    <br/> Deputy Director (Translational Neuroscience)
+                                <h3>Dr. Parasuraman Padmanabhan</h3>
+                                <div class="text1"><b> Deputy Director (Translational Neuroscience)</b>
                                     <br/>Nanyang Technological University, Singapore </div>
                             </div>
                         </div>
@@ -194,9 +189,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/arul.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Chair</h3>
-                                <div class="text1"><b>Dr. P. Arulmozhivarman</b>
-                                    <br/>Professor & Dean, School of Electrical Engineering
+                                <h3>Dr. P. Arulmozhivarman</h3>
+                                <div class="text1"><b>Professor & Dean, School of Electrical Engineering</b>
                                     <br/> VIT University </div>
                             </div>
                         </div>
@@ -207,9 +201,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/gothandam.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Chair</h3>
-                                <div class="text"><b>Dr. Gothandam K.M</b>
-                                    <br/>Dean, School of Bio Sciences and Technology
+                                <h3>Dr. Gothandam K.M</h3>
+                                <div class="text"><b>Dean, School of Bio Sciences and Technology</b>
                                     <br/>VIT University</div>
                             </div>
                         </div>
@@ -220,9 +213,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/mrp.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Chair</h3>
-                                <div class="text"><b>Dr.M.Radhakrishnan Pillai</b>
-                                    <br/>Director
+                                <h3>Dr.M.Radhakrishnan Pillai</h3>
+                                <div class="text"><b>Director</b>
                                     <br/>Rajiv Gandhi Centre for Biotechnology</div>
                             </div>
                         </div>
@@ -236,9 +228,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/radhakrishnan-r.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Associate Chair</h3>
-                                <div class="text1"><b>Dr. R. Radhakrishnan</b>
-                                    <br/> Scientist E-I
+                                <h3>Dr. R. Radhakrishnan</h3>
+                                <div class="text1"><b> Scientist E-I</b>
                                     <br/> Rajiv Gandhi Centre for Biotechnology</div>
                             </div>
                         </div>
@@ -249,9 +240,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/Prem.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Associate Chair</h3>
-                                <div class="text1"><b>Rev. Fr. Prem Kumar</b>
-                                    <br/>Ex-Correspondent and Secretary,
+                                <h3>Rev. Fr. Prem Kumar</h3>
+                                <div class="text1"><b>Ex-Correspondent and Secretary,</b>
                                     <br/> Mar Ephraem College of Engineering and Technology </div>
                             </div>
                         </div>
@@ -262,9 +252,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/josephinraj.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Associate Chair</h3>
-                                <div class="text"><b>Very Rev. Fr. Josephine Raj</b>
-                                    <br>Correspondent & Secretary
+                                <h3>Very Rev. Fr. Josephine Raj</h3>
+                                <div class="text"><b>Correspondent & Secretary</b>
                                     <br>Mar Ephraem College of Engineering and Technology
                                     <br>Marthandam</div>
                             </div>
@@ -279,9 +268,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/arunai.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Secretary</h3>
-                                <div class="text1"><b>Dr.N. Arunai Nambiraj</b>
-                                    <br/>Professor
+                                <h3>Dr.N. Arunai Nambiraj</h3>
+                                <div class="text1"><b>Professor</b>
                                     <br/>CBCMT, VIT University </div>
                             </div>
                         </div>
@@ -292,9 +280,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/jacob.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Secretary</h3>
-                                <div class="text1"><b>Dr. I. Jacob Raglend</b>
-                                    <br>Professor
+                                <h3>Dr. I. Jacob Raglend</h3>
+                                <div class="text1"><b>Professor</b>
                                     <br>SELECT, VIT University
                                     <br> </div>
                             </div>
@@ -306,9 +293,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/pragasam.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Secretary</h3>
-                                <div class="text1"><b>Dr. V. Pragasam</b>
-                                    <br/>Professor
+                                <h3>Dr. V. Pragasam</h3>
+                                <div class="text1"><b>Professor</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -321,9 +307,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/sivabalan.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Secretary</h3>
-                                <div class="text"><b>Dr. S. Sivabalan</b>
-                                    <br>Associate Professor
+                                <h3>Dr. S. Sivabalan</h3>
+                                <div class="text"><b>Associate Professor</b>
                                     <br>SELECT, VIT University</div>
                             </div>
                         </div>
@@ -334,9 +319,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/PrabhuKR.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Secretary</h3>
-                                <div class="text1"><b>Dr. K. R. Prabhu</b>
-                                    <br/>Associate Professor
+                                <h3>Dr. K. R. Prabhu</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br/>SELECT, VIT University</div>
                             </div>
                         </div>
@@ -347,9 +331,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/ramanathan.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Organizing Secretary</h3>
-                                <div class="text1"><b>Dr. K. Ramanathan</b>
-                                    <br/>Associate Professor
+                                <h3>Dr. K. Ramanathan</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -363,9 +346,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/austin.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text"><b>Dr. N. Austin</b>
-                                    <br>Director
+                                <h3>Dr. N. Austin</h3>
+                                <div class="text"><b>Director</b>
                                     <br>Mar Ephraem College of Engineering and Technology
                                     <br>Marthandam</div>
                             </div>
@@ -377,9 +359,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/anil.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. G. Anilkumar</b>
-                                    <br/>Senior Professor
+                                <h3>Dr. G. Anilkumar</h3>
+                                <div class="text1"><b>Senior Professor</b>
                                     <br/>SBST, VIT University
                                     </div>
                             </div>
@@ -391,9 +372,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/manjubala.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. I. Manjubala</b>
-                                    <br/>Professor
+                                <h3>Dr. I. Manjubala</h3>
+                                <div class="text1"><b>Professor</b>
                                     <br/>SBST, VIT University</div>
                             </div>
                         </div>
@@ -406,9 +386,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/belwin.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. J. Belwin Edward</b>
-                                    <br/>Associate Professor
+                                <h3>Dr. J. Belwin Edward</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br/>SELECT, VIT University</div>
                             </div>
                         </div>
@@ -419,9 +398,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/thirumalai.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. R. Thirumalaivasan</b>
-                                    <br>Associate Professor
+                                <h3>Dr. R. Thirumalaivasan</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br>SELECT, VIT University
                                     <br> </div>
                             </div>
@@ -433,9 +411,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/mahalakshmi1.JPG" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Prof. P. Mahalakshmi</b>
-                                    <br>Associate Professor
+                                <h3>Prof. P. Mahalakshmi</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br>SELECT, VIT University </div>
                             </div>
                         </div>
@@ -448,9 +425,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/saravanan.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. B. Saravanan</b>
-                                    <br/>Associate Professor
+                                <h3>Dr. B. Saravanan</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br/>SELECT, VIT University </div>
                             </div>
                         </div>
@@ -461,9 +437,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/karthikeyan1.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. Karthikeyan Sivashanmugam</b>
-                                    <br>Associate Professor & Asst. Director (PAT)
+                                <h3>Dr. Karthikeyan Sivashanmugam</h3>
+                                <div class="text1"><b>Associate Professor & Asst. Director (PAT)</b>
                                     <br>SBST, VIT University
                                     <br> </div>
                             </div>
@@ -475,9 +450,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/anbalagan.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. M. Anbalagan</b>
-                                    <br>Associate Professor & Head (Integrative Biology)
+                                <h3>Dr. M. Anbalagan</h3>
+                                <div class="text1"><b>Associate Professor & Head (Integrative Biology)</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -490,9 +464,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/mohanasrini.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Programme Chair</h3>
-                                <div class="text1"><b>Dr. V. Mohanasrinivasan</b>
-                                    <br/>Assistant Professor (Sr.) & Head (Bio-Medical Sciences)
+                                <h3>Dr. V. Mohanasrinivasan</h3>
+                                <div class="text1"><b>Assistant Professor (Sr.) & Head (Bio-Medical Sciences)</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -506,9 +479,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/Geetha.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Technical Chair</h3>
-                                <div class="text1"><b>Dr. Geetha Manivasagam</b>
-                                    <br>Director
+                                <h3>Dr. Geetha Manivasagam</h3>
+                                <div class="text1"><b>Director</b>
                                     <br>CBCMT, VIT University
                                     </div>
                             </div>
@@ -520,9 +492,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/suresh.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Technical Chair</h3>
-                                <div class="text1"><b>Dr. P. K. Suresh</b>
-                                    <br/>Professor
+                                <h3>Dr. P. K. Suresh</h3>
+                                <div class="text1"><b>Professor</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -533,9 +504,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/kavitha.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Technical Chair</h3>
-                                <div class="text1"><b>Dr. Kavitha Thirumurugan</b>
-                                    <br/>Professor
+                                <h3>Dr. Kavitha Thirumurugan</h3>
+                                <div class="text1"><b>Professor</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -548,9 +518,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/ravanan.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Technical Chair</h3>
-                                <div class="text1"><b>Dr. P. Ravanan</b>
-                                    <br/>Associate Professor & Head (Department of Bio-Sciences)
+                                <h3>Dr. P. Ravanan</h3>
+                                <div class="text1"><b>Associate Professor & Head (Department of Bio-Sciences)</b>
                                     <br/>SBST, VIT University. </div>
                             </div>
                         </div>
@@ -561,9 +530,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/everette.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Technical Chair</h3>
-                                <div class="text1"><b>Dr. N. Everette Jacob Remington</b>
-                                    <br/>Associate Professor
+                                <h3>Dr. N. Everette Jacob Remington</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br/>SBST, VIT University </div>
                             </div>
                         </div>
@@ -577,9 +545,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/james.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Executive Member</h3>
-                                <div class="text1"><b>Dr. E. James Jebaseelan Samuel</b>
-                                    <br/>Senior Professor,
+                                <h3>Dr. E. James Jebaseelan Samuel</h3>
+                                <div class="text1"><b>Senior Professor,</b>
                                     <br/>SAS, VIT University</div>
                             </div>
                         </div>
@@ -590,9 +557,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/rameshbabu.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Executive Member</h3>
-                                <div class="text1"><b>Dr. P. Ramesh Babu</b>
-                                    <br>Professor,
+                                <h3>Dr. P. Ramesh Babu</h3>
+                                <div class="text1"><b>Professor,</b>
                                     <br>SAS, VIT University</div>
                                 </div>
                         </div>
@@ -603,9 +569,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/venkatesh.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Executive Member</h3>
-                                <div class="text"><b>Dr. S. Venkatesh</b>
-                                    <br/>Associate Professor
+                                <h3>Dr. S. Venkatesh</h3>
+                                <div class="text"><b>Associate Professor</b>
                                     <br/>SELECT, VIT University</div>
                             </div>
                         </div>
@@ -618,9 +583,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/vivekanandan.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Executive Member</h3>
-                                <div class="text1"><b>Dr. S. Vivekanandan</b>
-                                    <br/> Associate Professor
+                                <h3>Dr. S. Vivekanandan</h3>
+                                <div class="text1"><b> Associate Professor</b>
                                     <br/>SELECT, VIT University</div>
                             </div>
                         </div>
@@ -631,9 +595,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/ruban.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Executive Member</h3>
-                                <div class="text1"><b>Prof. N. Ruban</b>
-                                    <br>Associate Professor
+                                <h3>Prof. N. Ruban</h3>
+                                <div class="text1"><b>Associate Professor</b>
                                     <br>SELECT, VIT University
                                      </div>
                             </div>
@@ -645,10 +608,22 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/harikumar1.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Executive Member</h3>
-                                <div class="text"><b>Dr. K. B. Harikumar</b>
-                                    <br/>Scientist C,
+                                <h3>Dr. K. B. Harikumar</h3>
+                                <div class="text"><b>Scientist C,</b>
                                     <br/>Rajiv Gandhi Centre for Biotechnology</div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article class="col-md-4 col-sm-12 col-xs-12 post wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">
+                    <div class="post-inner">
+                        <figure class="image"> <img class="img-responsive" src="images/speakers/josephine.JPG" alt="" /> <span class="curve"></span> </figure>
+                        <div class="content">
+                            <div class="inner-box" style="padding-bottom:10px;">
+                                <h3>Fr. Josephin Raj</h3>
+                                <div class="text"><b>Correspondent/Secretary ,</b>
+                                   <br>Mar Ephraem College of Engineering and Technology
+                                    <br>Marthandam</div>
                             </div>
                         </div>
                     </div>
@@ -661,9 +636,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/sundaramurthy.jpg" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>International Organizing Member</h3>
-                                <div class="text"><b>Dr Sundramurthy Kumar</b>
-                                    <br/>Project Manager
+                                <h3>Dr Sundramurthy Kumar</h3>
+                                <div class="text"><b>Project Manager</b>
                                     <br/>Lee Kong Chian School of Medicine, Singapore</div>
                             </div>
                         </div>
@@ -674,9 +648,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/Melinda.png" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>International Organizing Member</h3>
-                                <div class="text1"><b>Dr. Melinda Lestar, MD</b>
-                                    <br/>Karolinska University Hospital
+                                <h3>Dr. Melinda Lestar, MD</h3>
+                                <div class="text1"><b>Karolinska University Hospital</b>
                                     <br/>Stockholm, Sweden</div>
                             </div>
                         </div>
