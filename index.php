@@ -620,14 +620,15 @@ Scheduled dates are 28<sup>th</sup> - 30<sup>th</sup> of August 2017. <br/>
 			
             <ul class="slider">
 			<center>
-        		<li class="slide-item">VIT University, Vellore, Tamil Nadu, INDIA </li>
+        		<li class="slide-item">School of Electrical Engineering </li>
 	<li class="slide-item">& </li>
-    	        
-            <li class="slide-item">Rajiv Gandhi Centre for Biotechnology, Trivandrum, Kerala, INDIA</li>    
+    	        <li class="slide-item">School of Bio Science and Technology</li>
+            <li class="slide-item">VIT University, Vellore, Tamil Nadu, INDIA.</li>    
             	<h2 class="wow tada" data-wow-delay="0ms" data-wow-duration="1500ms">IN ASSOC<span>IATION WITH</span></h2>
                 
-                <li class="slide-item">Mar Ephraem College of Engineering, Tamilnadu, INDIA</li>    
-                     
+                <li class="slide-item">Rajiv Gandhi Centre for Biotechnology, Trivandrum, Kerela, INDIA.</li> 
+                <li class="slide-item">& </li>
+                  <li class="slide-item">Mar Ephraem College of Engineering, Marthandam, Tamilnadu, INDIA.</li>   
                   </center>
                 
             </ul>
