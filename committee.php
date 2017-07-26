@@ -620,8 +620,8 @@ include 'top.php';
                         <figure class="image"> <img class="img-responsive" src="images/speakers/josephine.JPG" alt="" /> <span class="curve"></span> </figure>
                         <div class="content">
                             <div class="inner-box" style="padding-bottom:10px;">
-                                <h3>Fr. Josephin Raj</h3>
-                                <div class="text"><b>Correspondent/Secretary ,</b>
+                                <h3>Mr. S. N. Kumar</h3>
+                                <div class="text"><b>Assistant Professor,</b>
                                    <br>Mar Ephraem College of Engineering and Technology
                                     <br>Marthandam</div>
                             </div>
