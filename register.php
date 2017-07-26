@@ -174,11 +174,20 @@
                             	<li><i class="fa-li fa fa-check-square"></i>
                             	The registration fee covers:
                             	<ul class="fa-ul">
-                                <li><i class="fa-li fa fa-check-square"></i>Access to pre-conference workshop(Seperate Certificate will be issued)</li>
+                                
                             	<li><i class="fa-li fa fa-check-square"></i>Access to all the scientific sessions and exhibitions</li>
                             	<li><i class="fa-li fa fa-check-square"></i>Lunches during meetings & Conference Dinner (Day 2)</li>
                             	<li><i class="fa-li fa fa-check-square"></i>Tea/Coffee with snacks</li>
                             	<li><i class="fa-li fa fa-check-square"></i>Conference kit</li>
+                            	</ul>
+                                    
+</li>
+                                    <li><i class="fa-li fa fa-check-square"></i>
+                            	Concession For Multiple Submission
+                            	<ul class="fa-ul">
+                                
+                            	<li><i class="fa-li fa fa-check-square"></i>Single author can submit maximum three papers and avail 25% concession in each registration.</li>
+                            	
                             	</ul>
 </li>
 </ul>
@@ -200,10 +209,27 @@
                             <div class="link-btn">
                             <a class="primary-btn hvr-bounce-to-left" href="http://info.vit.ac.in/conference/ictmiforeign/apply.asp">
                                       <span class="btn-text" style="padding: 10px 10px 10px 10px;">REGISTER & PAY</span> <strong class="icon"><span class="f-icon flaticon-right11"></span></strong></a>
+                               <br>
+                                <br>
+							<h3 class="payment">Instruction for Workshop Registration</h3>
+						         
                                 
-							
-						
-						
+                                <ul class="fa-ul">
+                                    
+                            	<li><i class="fa-li fa fa-check-square"></i>Registration fee only for pre-conference workshop (28/8/2017) : Rs. 1000 per head
+                            	</li>
+                            	<li><i class="fa-li fa fa-check-square"></i>
+                            	Special concession for group registration (more than 10 participant from same institution/organization) for Pre-conference workshop (Rs. 750 per head).
+                            	<ul class="fa-ul">
+                                
+                            	<li><i class="fa-li fa fa-check-square"></i>Mode of payment : Single DD in favour of "VIT University, Vellore" </li>
+                            	
+                            	</ul>
+</li>
+</ul>
+			
+                                <br>
+                                <br>
 	
 	<h3>
 	LAST DATE OF REGISTRATION :<a> 18 <sup>TH</sup> AUGUST 2017 </a>
