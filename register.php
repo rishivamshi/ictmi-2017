@@ -218,6 +218,10 @@
                                     
                             	<li><i class="fa-li fa fa-check-square"></i>Registration fee only for pre-conference workshop (28/8/2017) : Rs. 1000 per head
                             	</li>
+                                    <br>
+                                    <a class="primary-btn hvr-bounce-to-left" href="http://info.vit.ac.in/conference/ictmi2017/apply.asp">
+                                      <span class="btn-text" style="padding: 10px 10px 10px 10px;">REGISTER & PAY</span> <strong class="icon"><span class="f-icon flaticon-right11"></span></strong></a><br><br>
+                                    
                             	<li><i class="fa-li fa fa-check-square"></i>
                             	Special concession for group registration (more than 10 participant from same institution/organization) for Pre-conference workshop (Rs. 750 per head).
                             	<ul class="fa-ul">
