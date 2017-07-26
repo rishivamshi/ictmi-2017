@@ -389,38 +389,38 @@
                 	<!--Active Btn-->
                 	<li class="tab-btn hvr-bounce-to-bottom active-btn" data-id="#architecture-tab">
                     	<div class="icon"></div>
-                        <strong style="font-size: 15px;">Registration Fees </strong>
+                        <strong style="font-size: 15px;">Early Bird Registration Fees(25/08/17) </strong>
                         
                     </li>
                 	 <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Industry delegates</strong>
-                         <span class="skill">7000 INR / 350 USD</span>
+                         <span class="skill">6000 INR / 300 USD</span>
                     </li>
                     
                     <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Academicians / Clinicians  </strong>
-                        <span class="skill">6000 INR / 300 USD </span>
+                        <span class="skill">5000 INR / 250 USD </span>
                     </li>
                     
                     <li class="tab-btn hvr-bounce-to-bottom" data-id="#renovation-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Research Scholars </strong>
-                          <span class="skill">5000 INR / 250 USD  </span>
+                          <span class="skill">4000 INR / 200 USD  </span>
                                                
                     </li>
                     
                        <li class="tab-btn hvr-bounce-to-bottom" data-id="#renovation-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Students   </strong>
-                        <span class="skill">4000 INR / 200 USD  </span>
+                        <span class="skill">3000 INR / 150 USD  </span>
                     </li>
                     
                      <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Co-Author / Participant / Accompanying Person</strong>
-                         <span class="skill">3000 INR / 100 USD</span>
+                         <span class="skill">2500 INR / 100 USD</span>
                     </li>
                     
                     
@@ -439,7 +439,7 @@
                             <h4>Notification of Acceptance :  <a>21 <sup>th</sup> August 2017 </a></h4>
                          <h4>Last date of Registration : <a>21 <sup>th</sup> August 2017</a> </h4>
                         	<br>
-
+                            <h3>Spot Registration Fees: <a href="register.php">Click Here</a></h3>
                             
                             <!--Tab Text-->
                                                                                                            
