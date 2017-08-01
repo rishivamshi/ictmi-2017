@@ -436,7 +436,7 @@
                     <div class="tab active-tab clearfix" id="architecture-tab">
                     	<!--Content Box-->
                         <div class="content-box">
-                         <h4>Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4>
+                         <marquee><h4><i class="fa fa-spinner fa-pulse"></i>&nbsp;Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4></marquee>
                             <h4>Notification of Acceptance :  <a>21 <sup>th</sup> August 2017 </a></h4>
                          <h4>Last date of Registration : <a>21 <sup>th</sup> August 2017</a> </h4>
                         	<br>
