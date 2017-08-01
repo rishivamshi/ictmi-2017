@@ -38,6 +38,7 @@
                 <div class="top-left pull-left clearfix">
                 	<div class="email pull-left"><a href="mailto:ictmi2017@gmail.com"><span class="f-icon flaticon-email145"></span> ictmi2017@gmail.com</a></div>
                     <div class="phone pull-left"><a href="tel:9443311373"><span class="f-icon flaticon-phone325"></span> +91 94433 11373</a></div>
+                    <div class="phone pull-left" ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/logo_springer.png"  height="50%"> </a></div>
                  <!--   
                     <div class="phone pull-left"><span style="padding-right:2px; padding-top: 2px; display:inline-block;">
                     
@@ -170,7 +171,7 @@
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                        <div class="big-title"><h2> Workshop on <span class="txt-white">"Molecular Imaging" </span></h2>
+                        <div class="big-title"><h3><b>A One Day Course (Pre-Conference Workshop) on <span class="txt-white"><a href="http://info.vit.ac.in/conference/ictmi2017/apply.asp" style="color:white;">"<u>IMAGING and IMAGE PROCESSING</u>"</a> </span></b></h3>
                     <br> & <br>
                             <div class="big-title"><h2> International Conference on <br><span class="txt-white">Translational Medicine and Imaging </span></h2></div></div></div>
                     
@@ -275,7 +276,7 @@
                 <p style="text-align:justify">
                       International Conference on "International Conference on Translational Medicine and Imaging" (ICTMI) will be an annual event for world leading scientists, engineers and clinicians from a wide range of disciplines associated with computer assisted medical imaging. The ICTMI Conferences will be rotated among the Asian Subcontinent. Bio imaging has continued to evolve across a wide spectrum of applications from diagnostics to personalized therapy to mechanistic understanding of biological processes. The field continues to be challenged with ever increasing demand on more robust methods and integration with clinical and molecular data. The conference series includes two days of oral presentations and poster sessions along with a preconference worshop. It also includes workshops, tutorials and challenges related to the field of medical imaging. The associated satellite events focus in detail on current status and advances in the topics of ICTMI. It is a great opportunity for the world biomedical engineering & medical community to host this conference in India for the first time. We are proud to promote and foster the exchange and dissemination of advanced knowledge, expertise and experience in the medical imaging field contributed by outstanding scientists from leading institutions, physicians and educators around the world.
                 </p>
-<i class="fa fa-spinner fa-pulse"></i>&nbsp;&nbsp;<b>SELECTED Papers of this conference will be published in <a href="http://www.springer.com/medicine/radiology/journal/11307">MOLECULAR IMAGING & BIOLOGY</a> Springer</b>
+<h3><i class="fa fa-spinner fa-pulse"></i>&nbsp;&nbsp;<b>SELECTED Papers of this conference will be published in <a href="http://www.springer.com/medicine/radiology/journal/11307">MOLECULAR IMAGING & BIOLOGY</a> Springer</b></h3>
 
             </div>
             
@@ -356,7 +357,7 @@
                         <div class="content">
                             <div class="inner-box">
                                 <h3>Full Paper Submission</h3>
-                                <div class="text">Last Date 31<sup>st</sup> July 2017</div>
+                                <div class="text">Last Date 18<sup>th</sup> August 2017</div>
                                 <a href="guidelines.php" class="read_more">Guidelines <strong class="icon"><span class="f-icon flaticon-right11"></span></strong> </a>
                             </div>
                         </div>
@@ -389,38 +390,38 @@
                 	<!--Active Btn-->
                 	<li class="tab-btn hvr-bounce-to-bottom active-btn" data-id="#architecture-tab">
                     	<div class="icon"></div>
-                        <strong style="font-size: 15px;">Registration Fees </strong>
+                        <strong style="font-size: 15px;">Early Bird Registration Fees(25/08/17) </strong>
                         
                     </li>
                 	 <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Industry delegates</strong>
-                         <span class="skill">7000 INR / 350 USD</span>
+                         <span class="skill">6000 INR / 300 USD</span>
                     </li>
                     
                     <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Academicians / Clinicians  </strong>
-                        <span class="skill">6000 INR / 300 USD </span>
+                        <span class="skill">5000 INR / 250 USD </span>
                     </li>
                     
                     <li class="tab-btn hvr-bounce-to-bottom" data-id="#renovation-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Research Scholars </strong>
-                          <span class="skill">5000 INR / 250 USD  </span>
+                          <span class="skill">4000 INR / 200 USD  </span>
                                                
                     </li>
                     
                        <li class="tab-btn hvr-bounce-to-bottom" data-id="#renovation-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Students   </strong>
-                        <span class="skill">4000 INR / 200 USD  </span>
+                        <span class="skill">3000 INR / 150 USD  </span>
                     </li>
                     
                      <li class="tab-btn hvr-bounce-to-bottom" data-id="#architecture-tab">
                     	<div class="icon"></div>
                         <strong style="line-height:40px;">Co-Author / Participant / Accompanying Person</strong>
-                         <span class="skill">3000 INR / 100 USD</span>
+                         <span class="skill">2500 INR / 100 USD</span>
                     </li>
                     
                     
@@ -435,11 +436,11 @@
                     <div class="tab active-tab clearfix" id="architecture-tab">
                     	<!--Content Box-->
                         <div class="content-box">
-                         <h4>Last date of Full Paper Submission : <a>31<sup>st</sup> July 2017</a></h4>
-                            <h4>Notification of Acceptance :  <a>10 <sup>th</sup> August 2017 </a></h4>
-                         <h4>Last date of Registration : <a>17 <sup>th</sup> August 2017</a> </h4>
+                         <h4>Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4>
+                            <h4>Notification of Acceptance :  <a>21 <sup>th</sup> August 2017 </a></h4>
+                         <h4>Last date of Registration : <a>21 <sup>th</sup> August 2017</a> </h4>
                         	<br>
-                            <h3><a>Spot registration not entertained</a></h3>
+                            <h3>Spot Registration Fees: <a href="register.php">Click Here</a></h3>
                             
                             <!--Tab Text-->
                                                                                                            
@@ -620,14 +621,15 @@ Scheduled dates are 28<sup>th</sup> - 30<sup>th</sup> of August 2017. <br/>
 			
             <ul class="slider">
 			<center>
-        		<li class="slide-item">VIT University, Vellore, Tamil Nadu, INDIA </li>
+        		<li class="slide-item">School of Electrical Engineering </li>
 	<li class="slide-item">& </li>
-    	        
-            <li class="slide-item">Rajiv Gandhi Centre for Biotechnology, Trivandrum, Kerala, INDIA</li>    
+    	        <li class="slide-item">School of Bio Science and Technology</li>
+            <li class="slide-item">VIT University, Vellore, Tamil Nadu, INDIA.</li>    
             	<h2 class="wow tada" data-wow-delay="0ms" data-wow-duration="1500ms">IN ASSOC<span>IATION WITH</span></h2>
                 
-                <li class="slide-item">Mar Ephraem College of Engineering, Tamilnadu, INDIA</li>    
-                     
+                <li class="slide-item">Rajiv Gandhi Centre for Biotechnology, Trivandrum, Kerela, INDIA.</li> 
+                <li class="slide-item">& </li>
+                  <li class="slide-item">Mar Ephraem College of Engineering, Marthandam, Tamilnadu, INDIA.</li>   
                   </center>
                 
             </ul>
@@ -638,7 +640,7 @@ Scheduled dates are 28<sup>th</sup> - 30<sup>th</sup> of August 2017. <br/>
         
     </section>
     
-    
+    <!-- 
       <section class="top-services">
         <div class="auto-container">
             
@@ -714,9 +716,39 @@ Scheduled dates are 28<sup>th</sup> - 30<sup>th</sup> of August 2017. <br/>
  
         </div>
 	</section>
+    -->
+    <br>
+    <br>
+    <section class="we-are-best">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	
+                <div class="col-md-6 col-sm-6 col-xs-12 image-side">
+                	<figure class="image"><img class="img-responsive" src="images/sponsorship.jpg" alt="" title=""></figure>
+                </div>
+                
+                <div class="col-md-6 col-sm-6 col-xs-12 text-side">
+                	<h2 class="wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">Industry <span>Sponsorship</span> </h2>
+                    <div class="text wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
+                    	<p>
+                    
+This will be an excellent opportunity to showcase your wide array of products to delegates.<br>
+
+                    	
+                    	</p>
+                    </div>
+                    <div class="link-btn wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1000ms">
+                    <a class="primary-btn light hvr-bounce-to-left" href="sponsorship.php">
+                    <span class="btn-text">Sponsorship Details</span> 
+                    <strong class="icon"><span class="f-icon flaticon-right11"></span></strong></a></div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
     
-    
-    
+    <br>
+    <br>
     <!--News Area-->
     <section class="">
     	<div class="auto-container">

@@ -93,7 +93,7 @@ include 'top.php';
     <div class="tab-text">
     <h3 class="payment"><b>SELECTED Papers of this conference will be published in <a href="http://www.springer.com/medicine/radiology/journal/11307">MOLECULAR IMAGING & BIOLOGY</a> Springer</b></h3>
     <h3 class="payment"><SUP></SUP></h3>
-                          	<h3 class="payment">LAST DATE OF FULL PAPER SUBMISSION IS 30<SUP>TH</SUP> July 2017</h3>	<BR/>
+                          	<h3 class="payment">LAST DATE OF FULL PAPER SUBMISSION IS 18<SUP>TH</SUP> August 2017</h3>	<BR/>
                           	
                           	<h3 class="payment">Tracks </h3>
                           
