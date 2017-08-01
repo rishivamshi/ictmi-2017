@@ -167,7 +167,7 @@
                             <!--Tab Text-->
                             <div class="tab-text">
                             	<ul class="fa-ul">
-                                    <li><i class="fa-li fa fa-check-square"></i>Virtual Presentation facility only for participants from foreign countries
+                                    <li><i class="fa-li fa fa-check-square"></i>Virtual Presentation facility available for registered participants.
                             	</li>
                             	<li><i class="fa-li fa fa-check-square"></i>Students and Research Scholars are required to send their registration forms along with a letter from the Head of the Department/Institute/Supervising Guide certifying their status
                             	</li>
