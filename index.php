@@ -436,7 +436,7 @@
                     <div class="tab active-tab clearfix" id="architecture-tab">
                     	<!--Content Box-->
                         <div class="content-box">
-                         <marquee><h4><i class="fa fa-spinner fa-pulse"></i>&nbsp;Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4></marquee>
+                         <h4>Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4>
                             <h4>Notification of Acceptance :  <a>21 <sup>th</sup> August 2017 </a></h4>
                          <h4>Last date of Registration : <a>21 <sup>th</sup> August 2017</a> </h4>
                         	<br>
@@ -759,29 +759,50 @@ This will be an excellent opportunity to showcase your wide array of products to
                 
             <div class="sec-text wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
                
+                
+                
                 <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6 ">
+                    <div class="col-lg-4 col-md-6 col-sm-6 ">
                         <br>
-                        <img src="images/Sponsors/brain.gif">
+                        <img src="images/Sponsors/Arobe.png">
                     
                     
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <br><img src="images/Sponsors/brain.gif">
+                    
+                    
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <br><img src="images/Sponsors/elekta.png">
                     
                     
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <br><img src="images/Sponsors/mediso.jpg">
+                    
+                
+                
+                
+                </div>
+                
+                
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 ">
+                        <br>
+                        <img src="images/Sponsors/mediso.jpg">
                     
                     
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <br><img src="images/Sponsors/siemens.png">
                     
                     
                     </div>
-                        
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <br><img src="images/Sponsors/sprinjer.png">
+                    
+                    
+                    </div>
+                    
                 
                 
                 </div>

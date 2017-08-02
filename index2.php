@@ -759,29 +759,50 @@ This will be an excellent opportunity to showcase your wide array of products to
                 
             <div class="sec-text wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
                
+                
+                
                 <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6 ">
+                    <div class="col-lg-4 col-md-6 col-sm-6 ">
                         <br>
-                        <img src="images/Sponsors/brain.gif">
+                        <img src="images/Sponsors/Arobe.png">
                     
                     
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <br><img src="images/Sponsors/brain.gif">
+                    
+                    
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <br><img src="images/Sponsors/elekta.png">
                     
                     
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <br><img src="images/Sponsors/mediso.jpg">
+                    
+                
+                
+                
+                </div>
+                
+                
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 ">
+                        <br>
+                        <img src="images/Sponsors/mediso.jpg">
                     
                     
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <br><img src="images/Sponsors/siemens.png">
                     
                     
                     </div>
-                        
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <br><img src="images/Sponsors/sprinjer.png">
+                    
+                    
+                    </div>
+                    
                 
                 
                 </div>
