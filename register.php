@@ -194,7 +194,7 @@
                             	
                           <h3 class="payment1">  Registration & Online Payment</h3> <br/>
 							<h3 class="payment">Online Registration for Indian Delegates</h3>
-                            <p style="text-align:justify;"> Registration opens only for Participants</p>
+                            <p style="text-align:justify;"> </p>
 								
                                 			<br/>
                                             
@@ -204,7 +204,7 @@
                                 <h3 class="payment">                   </h3>
 						
                         	<h3 class="payment">Wire Transfer for Foreign Delegates</h3>
-                            <p style="text-align:justify;"> Registration opens only for Participants</p>
+                            <p style="text-align:justify;"> </p>
 							
                             <div class="link-btn">
                             <a class="primary-btn hvr-bounce-to-left" href="http://info.vit.ac.in/conference/ictmiforeign/apply.asp">
