@@ -68,7 +68,7 @@ include 'top.php';
         </div>
         
         
-    </header>
+    
     <!--End Main Header -->
 <section class="services-area" >
     	<div class="auto-container" style="padding-top:50px;">
@@ -246,8 +246,8 @@ include 'top.php';
                         </table>
                        </span>
                     </li>
-                    </span>
-                    </li>
+                    
+                    
                 </ul>
                    
 				   
@@ -376,7 +376,7 @@ include 'top.php';
                         <tr>
                         <td  width="30%"><strong>12.30 PM-1.00 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-3: DR. Dr. Melinda Lestar,<b></br> Karolinska Institutet Department of Anesthesiology and Intensive Care<br /> 
+                        <h3 class="payment">PL-3: DR. Dr. Melinda Lestar,<b> Karolinska Institutet Department of Anesthesiology and Intensive Care<br /> 
 Solna, Stockholm, Sweden
 </b></h3>
                         
@@ -408,7 +408,7 @@ Solna, Stockholm, Sweden
                         <tr>
                         <td  width="30%"><strong>2.00 PM</strong></td>
                         <td width="70%">
-                          <h3 class="payment">Session 2: Image processing </br><b>Session chair: Dr.Murukeshan V M</b></h3>
+                          <h3 class="payment">Session 2: Image processing <b>Session chair: Dr.Murukeshan V M</b></h3>
 
 				     
                           </td>
@@ -426,7 +426,7 @@ Solna, Stockholm, Sweden
                         <tr>
                         <td  width="30%"><strong>2.00 PM-2.40 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-4:  Professor Michele M Bailey,</br><b>Director, Comparative Medicine, National University of Singapore, Singapore</b></h3>
+                        <h3 class="payment">PL-4:  Professor Michele M Bailey,<b>Director, Comparative Medicine, National University of Singapore, Singapore</b></h3>
    
 
                         </td>
@@ -445,7 +445,7 @@ Solna, Stockholm, Sweden
                         <tr>
                         <td  width="30%"><strong>2.40 PM- 3.20 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-5: Dr. T.R. Santhosh Kumar, </br><b>RGCB, Thiruvananthapuram</b></h3>
+                        <h3 class="payment">PL-5: Dr. T.R. Santhosh Kumar, <b>RGCB, Thiruvananthapuram</b></h3>
                         </td>
                         </tr>
                         </table>
@@ -463,10 +463,10 @@ Solna, Stockholm, Sweden
                         <td  width="30%"><strong>3.20 PM-4.10 PM</strong></td>
                         <td width="70%">
                         <h3 class="payment">Technical Paper Presentation - 1</h3>
-                       </li></span>
-                        </td>
-                        </tr>
-						</table>
+                            </td></tr></table></span>
+                        
+                        
+						</li>
 						
 						 <li class="tab-btn hvr-bounce-to-bottom" data-id="#construction-tab">
                     	<div class="icon"></div>
@@ -477,10 +477,10 @@ Solna, Stockholm, Sweden
                         <td  width="30%"><strong>4.10 PM-4.30 PM</strong></td>
                         <td width="70%">
                         <h3 class="payment">Tea/Coffee Break</h3>
-                       </li></span>
-                        </td>
-                        </tr>
-                        </table>
+                        </td></tr> </table></span></li>
+                       
+                        
+                       
                        
 					   
 					   
@@ -493,13 +493,10 @@ Solna, Stockholm, Sweden
                         <tr>
                         <td  width="30%"><strong>4.30 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">Session 3: Multimodal Molecular imaging</br><b>
+                        <h3 class="payment">Session 3: Multimodal Molecular imaging<b>
 Session chair: Prof. Richard Reynolds</b>
 </h3>
-                       </li></span>
-                        </td>
-                        </tr>
-						</table>
+                       </td></tr> </table></span></li>
 					   
 					   
 					    
@@ -511,14 +508,11 @@ Session chair: Prof. Richard Reynolds</b>
                         <tr>
                         <td  width="30%"><strong>4.30 PM-4.40 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-6: Dr. Sundramurthy Kumar,</br><b> LKCMedicine, Nanyang Technological University, Singapore</b>
+                        <h3 class="payment">PL-6: Dr. Sundramurthy Kumar,<b> LKCMedicine, Nanyang Technological University, Singapore</b>
 
 
 </h3>
-                       </li></span>
-                        </td>
-                        </tr>
-						</table>
+                       </td></tr> </table></span></li>
 					   
 					   
 					   
@@ -531,12 +525,9 @@ Session chair: Prof. Richard Reynolds</b>
                         <tr>
                         <td  width="30%"><strong>4.40 PM-5.30 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-7: Ms Swati Meherishi,</br><b> Senior Editor (Applied Sciences, Engineering, Materials Science) Springer India</b>
+                        <h3 class="payment">PL-7: Ms Swati Meherishi,<b> Senior Editor (Applied Sciences, Engineering, Materials Science) Springer India</b>
 </h3>
-                       </li></span>
-                        </td>
-                        </tr>
-						</table>
+                      </td></tr> </table></span></li>
 					   
 					   
 					   
@@ -546,7 +537,7 @@ Session chair: Prof. Richard Reynolds</b>
 					   
 				   
 				   
-				    <ul class="tab-btns clearfix wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+				    <ul class="tab-btns clearfix wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible;">
                 	<!--Active Btn-->
                 	<li class="tab-btn hvr-bounce-to-bottom1 active-btn" data-id="#architecture-tab">
                     	<div class="icon"></div>
@@ -561,7 +552,7 @@ Session chair: Prof. Richard Reynolds</b>
                         <tr>
                         <td  width="30%"><strong>9.00 AM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">Session 4: Translational Medicine</br><b>
+                        <h3 class="payment">Session 4: Translational Medicine<b>
 Session chair: Prof. David Townsend</b>
 </h3>
 				      </td>
@@ -577,7 +568,7 @@ Session chair: Prof. David Townsend</b>
                         <tr>
                         <td  width="30%"><strong>9.00 AM-9.50 AM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">Key note speech by Professor Balázs Gulyas,</br><b> Professor and Scientific Director , Nanyang Technological University (NTU), Singapore</b></h3>
+                        <h3 class="payment">Key note speech by Professor Balázs Gulyas,<b> Professor and Scientific Director , Nanyang Technological University (NTU), Singapore</b></h3>
 				      </td>
                         </tr>
                         </table>
@@ -591,7 +582,7 @@ Session chair: Prof. David Townsend</b>
                         <tr>
                         <td  width="30%"><strong>9.50 AM-10.20 AM </strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-8:Prof. Siegfried Trattnig</br>Medical Director, Neuroradiology, Department of Radiology, Medical University of Vienna. </h3>
+                        <h3 class="payment">PL-8:Prof. Siegfried Trattnig Medical Director, Neuroradiology, Department of Radiology, Medical University of Vienna. </h3>
 				      </td>
                         </tr>
                         </table>
@@ -620,7 +611,7 @@ Session chair: Prof. David Townsend</b>
                         <tr>
                         <td  width="30%"><strong>10.50 AM- 11.15 AM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">Tea / Coffee Break
+                            <h3 class="payment">Tea / Coffee Break</h3>
                         			      </td>
                         </tr>
                         </table>
@@ -636,7 +627,7 @@ Session chair: Prof. David Townsend</b>
                         <tr>
                         <td  width="30%"><strong>11.15 AM-12.00 NOON</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-10: PROFESSOR RICHARD REYNOLDS, </br>IMPERIAL COLLEGE, LONDON </h3></b>
+                        <b><h3 class="payment">PL-10: PROFESSOR RICHARD REYNOLDS, IMPERIAL COLLEGE, LONDON </h3></b>
 				    
                        </td>
                         </tr>
@@ -651,8 +642,8 @@ Session chair: Prof. David Townsend</b>
                         <tr>
                         <td  width="30%"><strong>12.00 NOON-12.30 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-11: PROFESSOR  Frank Berger </br>Department for Clinical Radiology Ludwig-Maximilians-University, 
-Campus Innenstadt, </br>Munich, Germany</b></h3>
+                        <h3 class="payment">PL-11: PROFESSOR  Frank Berger Department for Clinical Radiology Ludwig-Maximilians-University, 
+Campus Innenstadt, Munich, Germany</h3>
                       
 				      </td>
                         </tr>
@@ -667,7 +658,7 @@ Campus Innenstadt, </br>Munich, Germany</b></h3>
                         <tr>
                         <td  width="30%"><strong>12.30 NOON-1.30 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">Technical Paper Presentation - 2</b></h3>
+                        <h3 class="payment">Technical Paper Presentation - 2</h3>
                       
 				      </td>
                         </tr>
@@ -714,7 +705,7 @@ Campus Innenstadt, </br>Munich, Germany</b></h3>
                         <tr>
                         <td  width="30%"><strong>2.30 PM-3.10 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-12:  Professor V M. Murukeshan,</br><b> Nanyang Technological University, Singapore</b> </h3>
+                        <h3 class="payment">PL-12:  Professor V M. Murukeshan,<b> Nanyang Technological University, Singapore</b> </h3>
                         
 				      </td>
                         </tr>
@@ -729,8 +720,8 @@ Campus Innenstadt, </br>Munich, Germany</b></h3>
                         <tr>
                         <td  width="30%"><strong>3.10 PM-3.50 PM</strong></td>
                         <td width="70%">
-                          <h3 class="payment">PL-13: Prof. Takeaki OZAWA, </br>Department of Biological Sciences,Graduate School of Science 
-</br>The University of Tokyo, Japan  </b> 
+                          <h3 class="payment">PL-13: Prof. Takeaki OZAWA, Department of Biological Sciences,Graduate School of Science 
+The University of Tokyo, Japan  
 
 </h3>
 			     
@@ -749,9 +740,9 @@ Campus Innenstadt, </br>Munich, Germany</b></h3>
                         <tr>
                         <td  width="30%"><strong>3.50 PM-4.30 PM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">PL-14: Prof. GOVINDARAJU ARCHUNAN,</br>
+                        <h3 class="payment">PL-14: Prof. GOVINDARAJU ARCHUNAN,<b>
 BHARATHIDASAN UNIVERSITY, TIRUCHIRAPPALLI
-</h3></b>
+                            </b></h3>
    
 
                         </td>
