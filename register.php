@@ -235,9 +235,7 @@
                                 <br>
                                 <br>
 	
-	<h3>
-	LAST DATE OF REGISTRATION :<a> 18 <sup>TH</sup> AUGUST 2017 </a>
-	</h3>				
+					
 						<!--		
                             </div>
                             
