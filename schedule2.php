@@ -742,7 +742,7 @@ Director, Imperial college, London
                         <tr>
                         <td  width="30%"><strong>10.00 AM- 10.50 AM</strong></td>
                         <td width="70%">
-                        <h3 class="payment">Key note speech by Professor David Townsend,<br><b> Director, Clinical Imaging Research Centre (CIRC), Singapore</b>
+                        <h3 class="payment">Key note speech by Professor David Townsend,<br/><b> Director, Clinical Imaging Research Centre (CIRC), Singapore</h3></b>
                         			      </td>
                         </tr>
                         </table>
@@ -1214,9 +1214,9 @@ BHARATHIDASAN UNIVERSITY, TIRUCHIRAPPALLI
 					   
 					   
 					   
-                        
+                        </span>
                        
-                   
+                    </li>
                 </ul>
                
     </div>
