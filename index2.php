@@ -438,7 +438,7 @@
                         <div class="content-box">
                          <h4>Last date of Full Paper Submission : <a>18<sup>th</sup> August 2017</a></h4>
                             <h4>Notification of Acceptance :  <a>21 <sup>th</sup> August 2017 </a></h4>
-                         <h4>Last date of Registration : <a>21 <sup>th</sup> August 2017</a> </h4>
+                         
                         	<br>
                             <h3>Spot Registration Fees: <a href="register.php">Click Here</a></h3>
                             
@@ -802,6 +802,18 @@ This will be an excellent opportunity to showcase your wide array of products to
                     
                     
                     </div>
+                    
+                
+                
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 ">
+                        <br>
+                        <img src="images/Sponsors/tmi.png">
+                    
+                    
+                    </div>
+                   
                     
                 
                 
