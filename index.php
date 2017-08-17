@@ -35,17 +35,15 @@
         	<div class="auto-container clearfix">
             	
                 <!-- Top Left -->
-                <div class="top-left pull-left clearfix">
-                	<div class="email pull-left"><a href="mailto:ictmi2017@gmail.com"><span class="f-icon flaticon-email145"></span> ictmi2017@gmail.com</a></div>
-                    <div class="phone pull-left"><a href="tel:9443311373"><span class="f-icon flaticon-phone325"></span> +91 94433 11373</a></div>
-                    <div class="phone pull-left" ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/logo_springer.png"  height="50%"> </a></div>
-                 <!--   
-                    <div class="phone pull-left"><span style="padding-right:2px; padding-top: 2px; display:inline-block;">
+                <div class="top-left  clearfix">
+                	<marquee>
+                    <div class="phone pull-left" ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/sprinjer1.png"  height="50%"> </a></div></marquee>
+                   
+                   
                     
-                    <img class="manImg" src="images/springer.jpg"></img></span> </div>
                     
-                    -->
                 </div>
+                
                 
                 <!-- Top Right
                 <nav class="top-right pull-right">

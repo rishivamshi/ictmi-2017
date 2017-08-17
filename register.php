@@ -33,11 +33,15 @@
     	<div class="header-top">
         	<div class="auto-container clearfix">
             	
-                <!-- Top Left -->
-                <div class="top-left pull-left clearfix">
-                	<div class="email pull-left"><a href="mailto:ictmi2017@gmail.com"><span class="f-icon flaticon-email145"></span> ictmi2017@gmail.com</a></div>
-                    <div class="phone pull-left"><a href="#"><span class="f-icon flaticon-phone325"></span> +91-9443311373</a></div>
+                <div class="top-left  clearfix">
+                	<marquee>
+                    <div class="phone pull-left" ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/sprinjer1.png"  height="50%"> </a></div></marquee>
+                   
+                   
+                    
+                    
                 </div>
+                
                 
                 <!-- Top Right
                 <nav class="top-right pull-right">
@@ -167,6 +171,8 @@
                             <!--Tab Text-->
                             <div class="tab-text">
                             	<ul class="fa-ul">
+                                    <li><i class="fa-li fa fa-check-square"></i>Poster Presentation Session Available
+                            	</li>
                                     <li><i class="fa-li fa fa-check-square"></i>Virtual Presentation facility available for registered participants.
                             	</li>
                             	<li><i class="fa-li fa fa-check-square"></i>Students and Research Scholars are required to send their registration forms along with a letter from the Head of the Department/Institute/Supervising Guide certifying their status
