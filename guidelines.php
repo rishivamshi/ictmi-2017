@@ -117,12 +117,14 @@ include 'top.php';
                           	<h3 class="payment">Important Information</h3>
                           
                           	<ul class="fa-ul">
+                                
         <li><i class="fa-li fa fa-check-square"></i>The papers should be submitted only through Easy Chair. <a href="https://easychair.org/conferences/?conf=ictmi2017"><b>Click here for submission</b></a></li>
          <li><i class="fa-li fa fa-check-square"></i>Email submissions will not be accepted. </li>
        <li><i class="fa-li fa fa-check-square"></i>Full paper submissions only will be considered for presentations.</li>
                <li><i class="fa-li fa fa-check-square"></i>There will be selection committee to select the research papers based on its scientific merit for oral presentations</li>
         <li><i class="fa-li fa fa-check-square"></i>All submitted paper will go through plagiarism check process. </li>
         <li><i class="fa-li fa fa-check-square"></i>All queries related to the conference shall be addressed to ictmi2017@gmail.com </li> 
+                                <li><i class="fa-li fa fa-check-square"></i>Best Paper award for each poster and oral sessions</li> 
         </ul>
         <br/>    <br/>
         <h3 class="payment">Preparation of Full Paper</h3>
