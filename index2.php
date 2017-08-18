@@ -863,6 +863,14 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                             <tbody>
                                 <tr>
                                     <th>1</th>
+                                    <td>Phoenix Castle (Hostel for Men and Women)</td>
+                                    <td>Girls - Auxilliam College Rountana Opposite to TMB Bank <br> Boys - Opposite to VIT Main Gate </td>
+                                    <td>Near by</td>
+                                    <td>500 </td>
+                                    <td>Opposite VIT Main Gate ( 96002 51314)</td>
+                                </tr>
+                                <tr>
+                                    <th>2</th>
                                     <td>Kumaran Millenium Residency</td>
                                     <td>53, Katpadi A1:G9 Thiru Nagar, Vellore, Tamil Nadu 632006</td>
                                     <td>4.3 Km</td>
@@ -870,7 +878,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Gandhi Nagar</td>
                                 </tr>
                                 <tr>
-                                    <th>2</th>
+                                    <th>3</th>
                                     <td>Rangalaya Royal</td>
                                     <td>60/1, Vellore - Chittoor Road, Gandhinagar, Vellore - 632006, Tamil Nadu.</td>
                                     <td>4.0 Km</td>
@@ -878,7 +886,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Next to Rangalaya Kalyana Mandapam</td>
                                 </tr>
                                 <tr>
-                                    <th>3</th>
+                                    <th>4</th>
                                     <td>GRT Regency Sameera Vellore</td>
                                     <td>Address: 145, Green Circle, New By-pass Rd, Vellore 632 004, India</td>
                                     <td>9.0 Km</td>
@@ -886,7 +894,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Green circle</td>
                                 </tr>
                                 <tr>
-                                    <th>4</th>
+                                    <th>5</th>
                                     <td>AVM Grande</td>
                                     <td> 58/2, Katpadi Road, Opp Chelliamman Koil-New Bus Stand, Vellore, Tamil Nadu 632004</td>
                                     <td>5.0 Km</td>
@@ -894,7 +902,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Opposite New Bustand</td>
                                 </tr>
                                 <tr>
-                                    <th>5</th>
+                                    <th>6</th>
                                     <td>Gaurang Mall</td>
                                     <td> SH 59, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu 632014</td>
                                     <td>100 m </td>
@@ -902,7 +910,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Opposite VIT</td>
                                 </tr>
                                 <tr>
-                                    <th>6</th>
+                                    <th>7</th>
                                     <td>SAMS</td>
                                     <td> Katpadi Road, Thiru Nagar, Vellore, Tamil Nadu 632007</td>
                                     <td>3.6 Km</td>
@@ -910,7 +918,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Silk mill</td>
                                 </tr>
                                 <tr>
-                                    <th>7</th>
+                                    <th>8</th>
                                     <td>City's Tower(bloosoms)</td>
                                     <td>Plot No:82,Phase-1,Vaibhav Nagar,katpadi,contact number:9003698487, 9443491691</td>
                                     <td>900 m</td>
@@ -918,7 +926,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Opposite VIT gate3</td>
                                 </tr>
                                 <tr>
-                                    <th>8</th>
+                                    <th>9</th>
                                     <td>S M Mansion</td>
                                     <td>Chittor Bus Stand,Tharapadavedu,Katpadi, Tamil Nadu</td>
                                     <td>2.0 Km</td>
@@ -926,7 +934,7 @@ https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=0
                                     <td>Near Chittoor bus stop</td>
                                 </tr>
                                 <tr>
-                                    <th>9</th>
+                                    <th>10</th>
                                     <td>Poppys Anukula Residency</td>
                                     <td>Opp. New Bus Stand, New Katpadi Road, Vellore, Tamil Nadu 632004</td>
                                     <td>6.0 Km</td>
