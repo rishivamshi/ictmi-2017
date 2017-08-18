@@ -844,7 +844,11 @@ This will be an excellent opportunity to showcase your wide array of products to
             <div class="sec-title wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1000ms">
                 <h2>Accommodation </h2>
             </div>
-                
+                <h3><a href="
+https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08272017&checkout=08282017&city=XVV&country=IN&area=&roomStayQualifier=2e0e&searchText=Vellore,%20India&sTime=1503032536643
+"><b><i class="fa fa-spinner fa-pulse"></i>&nbsp;&nbsp;Hotels In Vellore (Make my trip)</b></a></h3>
+            <br>
+            <br>
              <table class="table table-bordered table-striped" style="top:20px;">
                             <thead>
                                 <tr>
