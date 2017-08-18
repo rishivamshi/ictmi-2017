@@ -845,12 +845,93 @@ This will be an excellent opportunity to showcase your wide array of products to
                 <h2>Accommodation </h2>
             </div>
                 
-            <div class="sec-text wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-               
-              <h3><a>
-              Will be updated soon!
-                  </a>                </h3>
-                 </div>
+             <table class="table table-bordered table-striped" style="top:20px;">
+                            <thead>
+                                <tr>
+                                    <th style="text-align:center">No.</th>
+                                    <th style="text-align:center">Hotel Name</th>
+                                    <th style="text-align:center">Address</th>
+                                    <th style="text-align:center">Distance from VIT</th>
+                                    <th style="text-align:center">Price</th>
+                                    <th style="text-align:center">LandMark</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th>1</th>
+                                    <td>Kumaran Millenium Residency</td>
+                                    <td>53, Katpadi A1:G9 Thiru Nagar, Vellore, Tamil Nadu 632006</td>
+                                    <td>4.3 Km</td>
+                                    <td>800-1500</td>
+                                    <td>Gandhi Nagar</td>
+                                </tr>
+                                <tr>
+                                    <th>2</th>
+                                    <td>Rangalaya Royal</td>
+                                    <td>60/1, Vellore - Chittoor Road, Gandhinagar, Vellore - 632006, Tamil Nadu.</td>
+                                    <td>4.0 Km</td>
+                                    <td>2500-5000</td>
+                                    <td>Next to Rangalaya Kalyana Mandapam</td>
+                                </tr>
+                                <tr>
+                                    <th>3</th>
+                                    <td>GRT Regency Sameera Vellore</td>
+                                    <td>Address: 145, Green Circle, New By-pass Rd, Vellore 632 004, India</td>
+                                    <td>9.0 Km</td>
+                                    <td>From 4000</td>
+                                    <td>Green circle</td>
+                                </tr>
+                                <tr>
+                                    <th>4</th>
+                                    <td>AVM Grande</td>
+                                    <td> 58/2, Katpadi Road, Opp Chelliamman Koil-New Bus Stand, Vellore, Tamil Nadu 632004</td>
+                                    <td>5.0 Km</td>
+                                    <td>2200-5000</td>
+                                    <td>Opposite New Bustand</td>
+                                </tr>
+                                <tr>
+                                    <th>5</th>
+                                    <td>Gaurang Mall</td>
+                                    <td> SH 59, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu 632014</td>
+                                    <td>100 m </td>
+                                    <td>1500-2500</td>
+                                    <td>Opposite VIT</td>
+                                </tr>
+                                <tr>
+                                    <th>6</th>
+                                    <td>SAMS</td>
+                                    <td> Katpadi Road, Thiru Nagar, Vellore, Tamil Nadu 632007</td>
+                                    <td>3.6 Km</td>
+                                    <td>600-1600</td>
+                                    <td>Silk mill</td>
+                                </tr>
+                                <tr>
+                                    <th>7</th>
+                                    <td>City's Tower(bloosoms)</td>
+                                    <td>Plot No:82,Phase-1,Vaibhav Nagar,katpadi,contact number:9003698487, 9443491691</td>
+                                    <td>900 m</td>
+                                    <td>800-2200</td>
+                                    <td>Opposite VIT gate3</td>
+                                </tr>
+                                <tr>
+                                    <th>8</th>
+                                    <td>S M Mansion</td>
+                                    <td>Chittor Bus Stand,Tharapadavedu,Katpadi, Tamil Nadu</td>
+                                    <td>2.0 Km</td>
+                                    <td>600</td>
+                                    <td>Near Chittoor bus stop</td>
+                                </tr>
+                                <tr>
+                                    <th>9</th>
+                                    <td>Poppys Anukula Residency</td>
+                                    <td>Opp. New Bus Stand, New Katpadi Road, Vellore, Tamil Nadu 632004</td>
+                                    <td>6.0 Km</td>
+                                    <td>from 2800</td>
+                                    <td>Opposite New Bustand</td>
+                                </tr>
+                            </tbody>
+                            <tfoot> </tfoot>
+                        </table>
             
            
         </div>
