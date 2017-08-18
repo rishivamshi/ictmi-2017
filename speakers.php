@@ -366,6 +366,24 @@ Department of Anesthesiology and Intensive Care <br>Solna, Stockholm, Sweden <br
                         </div>
                     </div>
                 </article>
+                 <article class="col-md-4 col-sm-6 col-xs-12 post wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
+                	<div class="post-inner">
+                    
+                        <figure class="image">
+                            <img class="img-responsive" src="images/speakers/Members/DrTamasHodosi.jpg" alt="" />
+                            <span class="curve"></span>
+                        </figure>
+                        <div class="content">
+                            <div class="inner-box">
+                                <h3>Dr. Tamas Hodosi</h3>
+                                <div class="text" style="padding-bottom:10px;">Sales Manager<br>
+                                <br>Preclinical Imaging<br>Mediso.
+                                <a href="#" target="" class="read_more">READ MORE</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
              
         </div>
             
