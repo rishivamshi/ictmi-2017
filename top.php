@@ -39,7 +39,7 @@
                 <!-- Top Left -->
                 <div class="top-left  clearfix">
                 	<marquee>
-                    <div  ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/sprinjer1.png"  height="50%"> </a></div>
+                    <div  ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/sprinjer1.jpg"  height="50%"> </a></div>
                     <div ><a href="#">Best paper award for each Poster and Oral Sessions </a></div></marquee>
                    
                     

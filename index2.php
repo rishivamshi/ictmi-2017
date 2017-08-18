@@ -37,7 +37,7 @@
                 <!-- Top Left -->
                 <div class="top-left  clearfix">
                 	<marquee>
-                    <div  ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/sprinjer1.png"  height="50%"> </a></div>
+                    <div  ><a href="#">Selected Papers of This Conference will be published in MOLECULAR IMAGING & BIOLOGY <img src="images/icons/sprinjer1.jpg"  height="50%"> </a></div>
                     <div ><a href="#">Best paper award for each Poster and Oral Sessions </a></div></marquee>
                    
                    
@@ -484,7 +484,7 @@
                 </div>
                 
                 <div class="col-md-6 col-sm-6 col-xs-12 text-side">
-                	<h2 class="wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">Program <span>Schedule</span> </h2>
+                	<h2 class="wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms">Workshop and Program <span>Schedule</span> </h2>
                     <div class="text wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
                     	<p>
                     
