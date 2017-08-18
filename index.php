@@ -811,6 +811,12 @@ This will be an excellent opportunity to showcase your wide array of products to
                     
                     
                     </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 ">
+                        <br>
+                        <img src="images/Sponsors/vi-Micro.png">
+                    
+                    
+                    </div>
                    
                     
                 
