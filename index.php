@@ -792,7 +792,7 @@ This will be an excellent opportunity to showcase your wide array of products to
                     
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
-                        <br><img src="images/Sponsors/siemens.png">
+                        <br><img src="images/Sponsors/seimens.gif">
                     
                     
                     </div>
@@ -830,15 +830,27 @@ This will be an excellent opportunity to showcase your wide array of products to
                 
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6 ">
+                    <div class="col-lg-3 col-md-6 col-sm-6 ">
                         <br>
                         <img src="images/Sponsors/thirumaran.jpg">
                     
                     
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6 ">
+                    <div class="col-lg-3 col-md-6 col-sm-6 ">
                         <br>
                         <img src="images/Sponsors/srimurugan.png">
+                    
+                    
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 ">
+                        <br>
+                        <img src="images/Sponsors/ioigroup.png">
+                    
+                    
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 ">
+                        <br>
+                        <img src="images/Sponsors/mustafa.png">
                     
                     
                     </div>
